@@ -1,7 +1,7 @@
 # πDIA-CLIP: Efficient Identification of Highly Heterogeneous Proteomics Data via a Generalized Zero-Shot Framework
 
-[![bioRxiv](https://img.shields.io/badge/bioRxiv-2026.02.09.704949-brightgreen)](https://doi.org/10.1101/2026.02.09.704949)
-[![Zenodo](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.18863866-blue)](https://doi.org/10.5281/zenodo.18863866)
+[![bioRxiv](https://img.shields.io/badge/bioRxiv-2026.02.09.704949-brightgreen)](https://doi.org/10.64898/2026.02.09.704949)
+[![Zenodo](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.18863866-blue)](https://doi.org/10.5281/zenodo.19059840)
 
 ## Description
 
@@ -9,7 +9,7 @@
 
 If you use πDIA-CLIP in your work, please cite:
 
-> Liao Y, Li Y, Xiao Z, Miao C, Zhao X, Zhang Y, Wen H, E W, Chang C, Zhang W. πDIA-CLIP: efficient identification of highly heterogeneous proteomics data via a generalized zero-shot framework. *bioRxiv* (2026). https://doi.org/10.1101/2026.02.09.704949
+> Liao Y, Li Y, Xiao Z, Miao C, Zhao X, Zhang Y, Wen H, E W, Chang C, Zhang W. πDIA-CLIP: efficient identification of highly heterogeneous proteomics data via a generalized zero-shot framework. *bioRxiv* (2026). https://doi.org/10.64898/2026.02.09.704949
 
 ## Key Features
 
